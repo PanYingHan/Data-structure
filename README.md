@@ -13,4 +13,4 @@
 # 作業連結區  
 ### Hw1
 [HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW1)<br>
-[HW1 YT video](https://youtu.be/TTAO4_9QAD8)
+[HW1 YT video (With the flow chart](https://youtu.be/zQexII8bxBo)
