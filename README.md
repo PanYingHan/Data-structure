@@ -20,10 +20,7 @@
 [Week 5 上課影片2](https://youtu.be/UQLRLz6DDIM)<br>
 [Week 5 DRai資料集](https://drive.google.com/drive/folders/1hfbK9NI3vbvVHm0NmfuvZ2w9jkTR4Rx0)<br>
 [Week 5 DRai程式碼](https://github.com/peculab/autogen_project/tree/main/DRai)<br>
-<br>
-[Week 2 上課影片1](https://youtu.be/aC-TLg_ZmgM)<br>
-[Week 2 上課影片2](https://youtu.be/yLoiwbIRKAM)<br>
-[Week 2 上課影片3](https://youtu.be/926M51lZ6iQ)<br>
+
 # 作業連結區  
 ### Hw1
 [HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW1)<br>
