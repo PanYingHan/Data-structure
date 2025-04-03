@@ -28,3 +28,6 @@
 ### Hw2
 [HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
 [HW1 YT video (With the csv file)](https://youtu.be/5ae-enYY9FI)
+### Hw3
+[HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
+[HW1 YT video (With the csv file)](https://youtu.be/Hj0Dvt7i3Y0)
