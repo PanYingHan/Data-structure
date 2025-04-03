@@ -26,8 +26,8 @@
 [HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW1)<br>
 [HW1 YT video (With the flow chart)](https://youtu.be/zQexII8bxBo)
 ### Hw2
-[HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
-[HW1 YT video (With the csv file)](https://youtu.be/5ae-enYY9FI)
+[HW2 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
+[HW2 YT video (With the csv file)](https://youtu.be/5ae-enYY9FI)
 ### Hw3
-[HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
-[HW1 YT video (With the csv file)](https://youtu.be/Hj0Dvt7i3Y0)
+[HW3 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
+[HW3 YT video (With the csv file)](https://youtu.be/Hj0Dvt7i3Y0)
