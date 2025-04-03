@@ -29,5 +29,5 @@
 [HW2 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
 [HW2 YT video (With the csv file)](https://youtu.be/5ae-enYY9FI)
 ### Hw3
-[HW3 code](https://github.com/PanYingHan/Data-structure/tree/main/HW2)<br>
+[HW3 code](https://github.com/PanYingHan/Data-structure/tree/main/HW3)<br>
 [HW3 YT video (With the csv file)](https://youtu.be/Hj0Dvt7i3Y0)
