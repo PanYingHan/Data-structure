@@ -21,6 +21,16 @@
 [Week 5 DRai資料集](https://drive.google.com/drive/folders/1hfbK9NI3vbvVHm0NmfuvZ2w9jkTR4Rx0)<br>
 [Week 5 DRai程式碼](https://github.com/peculab/autogen_project/tree/main/DRai)<br>
 
+<br>
+[Week 6 上課影片1](https://youtu.be/FPFKoPl1nMY)<br>
+[Week 6 上課影片2](https://youtu.be/kFBxlTEP9_g)<br>
+[Week 6 PostAI程式碼](https://github.com/peculab/autogen_project/blob/main/postAI.py)<br>
+[Week 6 PostAI範例操作影片](https://youtu.be/fqOQUihvqko)<br>
+<br>
+[Week 7 上課影片1](https://youtu.be/5Sbxh9e-9jE)<br>
+[Week 7 上課影片2](https://youtu.be/73mlqwoUomg)<br>
+[Week 7 範例程式碼](https://github.com/peculab/autogen_project/blob/main/DRai/getPDF.py)<br>
+
 # 作業連結區  
 ### Hw1
 [HW1 code](https://github.com/PanYingHan/Data-structure/tree/main/HW1)<br>
