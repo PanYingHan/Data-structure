@@ -19,7 +19,7 @@
 [Week 5 上課影片1](https://youtu.be/aBvV2xhU72U)<br>
 [Week 5 上課影片2](https://youtu.be/UQLRLz6DDIM)<br>
 [Week 5 DRai資料集](https://drive.google.com/drive/folders/1hfbK9NI3vbvVHm0NmfuvZ2w9jkTR4Rx0)<br>
-[Week 5 DRai程式碼](https://github.com/peculab/autogen_project/tree/main/DRai)<br>
+[Week 5 DRai範例程式碼](https://github.com/peculab/autogen_project/tree/main/DRai)<br>
 <br>
 [Week 6 上課影片1](https://youtu.be/FPFKoPl1nMY)<br>
 [Week 6 上課影片2](https://youtu.be/kFBxlTEP9_g)<br>
