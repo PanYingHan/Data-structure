@@ -29,6 +29,19 @@
 [Week 7 上課影片1](https://youtu.be/5Sbxh9e-9jE)<br>
 [Week 7 上課影片2](https://youtu.be/73mlqwoUomg)<br>
 [Week 7 範例程式碼](https://github.com/peculab/autogen_project/blob/main/DRai/getPDF.py)<br>
+<br>
+[Week 8 上課影片1](https://youtu.be/-AxtgRhiyXI)<br>
+[Week 8 上課影片2](https://youtu.be/OrEQSNX3Ojo)<br>
+<br>
+[Week 9 上課影片1](https://youtu.be/RK0HyGeoVXA)<br>
+[Week 9 上課影片2](https://youtu.be/QESWjf3xqFE)<br>
+[Week 9 範例程式碼](https://github.com/peculab/autogen_project/tree/main/EMO)<br>
+<br>
+[Week 10 上課影片](https://www.youtube.com/watch?v=1a52sAtbTKo)<br>
+<br>
+[Week 11 上課影片](https://www.youtube.com/watch?v=CJhz0Du9I0k)<br>
+[Week 11 經驗分享](https://www.youtube.com/watch?v=xZ9NGoakR6g)<br>
+[Week 11 實作範例](https://www.facebook.com/pecu.tsai/posts/10226303319996138?locale=zh_TW)<br>
 
 # 作業連結區  
 ### Hw1
